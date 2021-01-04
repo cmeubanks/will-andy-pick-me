@@ -10,3 +10,32 @@ light blue background: #E6ECF4;
 clear button: #DE4841;
 clear button disabled: #D0CDCD
 */
+body {
+  
+}
+
+header {
+
+}
+
+section {
+  display:
+}
+
+.form {
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+}
+
+#eight-ball {
+  width: 20%;
+}
+
+#woody-image {
+ width: 20%;
+}
+
+.hide-the-page {
+  display: none;
+}
